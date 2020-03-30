@@ -12,5 +12,6 @@ This is a link to the tutorial series:
 https://www.youtube.com/watch?v=VS8wlS9hF8E&list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP&index=1
 
 Here is the 'finished' product of video ~14 in the series.
-![](ScreenShotLearningLWJGL.png)
+
+![](/ScreenShotLearningLWJGL.png)
 
