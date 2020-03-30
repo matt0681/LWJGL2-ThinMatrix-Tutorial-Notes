@@ -13,5 +13,5 @@ https://www.youtube.com/watch?v=VS8wlS9hF8E&list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUk
 
 Here is the 'finished' product of video ~14 in the series.
 
-![](/ScreenShotLearningLWJGL.png)
+![](/images/ScreenShotLearningLWJGL.PNG)
 
