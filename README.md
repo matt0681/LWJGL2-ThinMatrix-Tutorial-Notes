@@ -11,7 +11,7 @@ Please excuse how disorganized my paper notes are, they are simply rough notes t
 This is a link to the tutorial series:
 https://www.youtube.com/watch?v=VS8wlS9hF8E&list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP&index=1
 
-Here is the 'finished' product of video ~14 in the series.
+Here is the 'finished' product of video 15 in the series.
 
 ![](/images/ScreenShotLearningLWJGL.PNG)
 
