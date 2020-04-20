@@ -16,3 +16,6 @@ Here is the 'finished' product of video 16 in the series.
 
 ![](/images/ScreenShotLearningLWJGL.PNG)
 
+
+I have added episode 17, 18, and 19's code as a branch. Check the src folder outside the LWJGL2Tutorial folder.
+
