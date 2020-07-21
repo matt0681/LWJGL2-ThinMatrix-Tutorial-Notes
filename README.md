@@ -13,6 +13,5 @@ This is a link to the tutorial series:
 https://www.youtube.com/watch?v=VS8wlS9hF8E&list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP&index=1
 
 Here is the 'finished' product of video 16 in the series.
-(I have added episode 17, 18, and 19's code as a branch. Check the src folder outside the LearningLWJGL folder)
 
 ![](/images/ScreenShotLearningLWJGL.PNG)
