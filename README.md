@@ -6,7 +6,7 @@ It is made up of a pdf of my rough paper notes along with an intellij Idea works
 I take no credit for the code in the workspace.
 I do take credit for the large amounts of comments in the code however.
 
-Please excuse how disorganized my paper notes are, they are simply rough notes taken as I watched ThinMatrix' tutorials.
+Please excuse how disorganized my paper notes are, they are simply rough notes taken as I watched ThinMatrix' tutorials. (my hand writing isn't the prettiest either haha)
 Also the name of the project may change in different branches. Don't pay any mind.
 
 This is a link to the tutorial series:
