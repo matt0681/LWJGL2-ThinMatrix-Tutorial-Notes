@@ -15,3 +15,5 @@ https://www.youtube.com/watch?v=VS8wlS9hF8E&list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUk
 Here is the 'finished' product of video 16 in the series.
 
 ![](/images/ScreenShotLearningLWJGL.PNG)
+
+-Matthew Lad, 2019
