@@ -1,6 +1,6 @@
 # LWJGL2-ThinMatrix-Tutorial-Notes
 
-This repository is all the notes I took after watching ThinMatrix' LWJGL2 Java tutorials. 
+This repository contains all the notes I took after watching ThinMatrix' LWJGL2 Java tutorials. 
 It is made up of a pdf of my rough paper notes along with an intellij Idea workspace.
 
 I take no credit for the code in the workspace and am simply using this repository to keep my learning-process organized.
